@@ -1,1 +1,1 @@
-# lightstick-nativescript
+# lightstick-native
